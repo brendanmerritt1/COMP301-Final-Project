@@ -11,7 +11,7 @@ working nonogram puzzle. The main idea of this is to separate the application's 
 ### Running the Project / Viewing Demo
 Included in this repository are a `.jar` package for reproduction and a `nonogram demo.gif` file to see the project's working
 functionality. To use the `.jar` file, a version of the Java Runtime Environment (JRE) must already be installed.
-![](nonogram demo.gif)
+![](https://github.com/brendanmerritt1/COMP301-Final-Project/nonogram\ demo.gif)
 
 
 ## Project Structure
